@@ -1,5 +1,5 @@
 import os
-# Author: Marcus Hines : Change all http: links in files to //, while ignoring javascript. ie. http://example.com => //example.com
+# Author: Marcus Hines : Change all http: links in directory's files to //, while ignoring javascript. ie. http://example.com => //example.com
 
 
 # Open the file, fix mixed content, then overwrite the file with correct text
