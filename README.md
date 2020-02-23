@@ -1,2 +1,3 @@
 # Python-Scripts
-Python scripts for practical, general purposes tasks
+
+This was a script I wrote forever ago for a task at work.
